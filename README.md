@@ -1,5 +1,7 @@
 # GPU-Monitoring via Slack or Mattermost
 
+![Screenshot showing output in Slack](monitor-screenshot.png "Screenshot taken from Slack")
+
 ## In a nut shell
 Monitoring of a GPU system sending either Slack or Mattermost messages via webhooks
 
